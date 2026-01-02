@@ -1,7 +1,7 @@
 import chromadb
 import time
 from chromadb.utils import embedding_functions
-# Import CerebroChunk to avoid import errors
+
 from .ingester import CerebroChunk
 
 class CerebroVectorStore:

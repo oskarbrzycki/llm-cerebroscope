@@ -33,8 +33,8 @@ class CerebroGraph:
                     label=source_label, 
                     size=25, 
                     shape="circularImage",
-                    image="https://img.icons8.com/dusk/64/file.png", # Icon for file
-                    color="#FFD700" # Gold
+                    image="https://img.icons8.com/dusk/64/file.png", 
+                    color="#FFD700" 
                 ))
                 node_ids.add(source_label)
 

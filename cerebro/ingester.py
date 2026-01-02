@@ -11,7 +11,7 @@ class CerebroChunk:
         self.text = text
         self.source = source
         self.page = page
-        # Capture file modification time (or current time if missing)
+        
         self.timestamp = timestamp if timestamp else time.time()
 
     def to_context_format(self) -> str:

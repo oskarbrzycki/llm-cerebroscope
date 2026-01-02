@@ -15,8 +15,7 @@ from cerebro.tracer import CerebroTracer
 from cerebro.validator import CerebroValidator
 from cerebro.vector_store import CerebroVectorStore
 from cerebro.reporter import CerebroReporter
-# --- NAPRAWIONY IMPORT ---
-# Wcześniej było: from ui.formatter import CerebroFormatter
+
 from cerebro.ui.formatter import CerebroFormatter 
 
 # Initialize Rich Console
