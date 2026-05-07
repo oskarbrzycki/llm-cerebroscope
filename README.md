@@ -109,7 +109,7 @@
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/LLM-CerebroScope.git
+git clone https://github.com/oskarbrzycki/llm-cerebroscope.git
 cd LLM-CerebroScope
 
 # 2. Create virtual environment (recommended)
